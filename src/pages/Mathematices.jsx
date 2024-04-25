@@ -64,22 +64,22 @@ function Mathematices() {
       </div>
       <div className="faq">
         <h1 className='text-primary font-inter font-bold text-4xl text-left'>FAQ</h1>
-        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 w-[60rem]'>
+        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 lg:w-[60rem]'>
          <p className=''>Can education flashcard be used for all age groups ?   </p>
          <FaChevronDown /> 
         </div>
 
-        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 w-[60rem]'>
+        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 lg:w-[60rem]'>
          <p className=''>Can education flashcard be used for all age groups ?   </p>
          <FaChevronDown /> 
         </div>
 
-        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 w-[60rem]'>
+        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 lg:w-[60rem]'>
          <p className=''>Can education flashcard be used for all age groups ?   </p>
          <FaChevronDown /> 
         </div>
 
-        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 w-[60rem]'>
+        <div className='border border-blue-900 py-2 px-2 flex justify-between items-center rounded-lg mt-6 lg:w-[60rem]'>
          <p className=''>Can education flashcard be used for all age groups ?   </p>
          <FaChevronDown /> 
         </div>
