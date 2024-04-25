@@ -48,12 +48,13 @@ function Mathematices() {
           </div>
         </div>
 
-        <div className='mt-16 flex justify-between items-center  px-32 w-full'>
+        <div className='mt-16 flex justify-between items-center  px-4 lg:px-32 w-full'>
           <img src={right} alt="" className='h-32 w-32' />
           <div className='flex items-center gap-2 font-inter font-bold text-sm text-primary'> 
-            <span className={`${gradient} p-2 rounded-full text-white`}>
+            <h1 className={`${gradient} p-2 rounded-full text-white`}>
             <FaPlus />
-            </span>
+            </h1>
+
             Create FlashCard
              </div>
         </div>
